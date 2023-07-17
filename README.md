@@ -1,1 +1,1 @@
-# spring-basic
+# Inflearn 김영햔 강사님의 스프링 핵심 원리에 나오는 내용들을 github으로 옮긴 내용입니다
